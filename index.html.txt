@@ -1,0 +1,7 @@
+<!doctype>
+<html>
+   <link href-"style.css" type="text/css"> rel="stylesheet" type="text/css">
+</head>
+<body>
+	<h1> Minun nettisivu2</h2>
+</body>	
